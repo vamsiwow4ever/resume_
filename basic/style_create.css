@@ -1,0 +1,49 @@
+p{
+    color: blue;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h4{
+    text-transform: uppercase;
+}
+.ogtitle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#focusblog{
+    color: rgb(63, 142, 222);
+}
+li h4:hover{
+    color: blueviolet;
+}
+.ogtitle:hover{
+    height: 60px;
+    width: 450px;;
+    background-color: rgba(225 , 126, 60,2);
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+body{
+    background-image: url("https://cdn.123telugu.com/content/wp-content/uploads/2023/01/PK.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-attachment: fixed;
+    color: white;
+}
+.ogpic{
+    margin: 5% 30%;
+}
+.ogpic:hover{
+    border-radius: 3%;
+    height: 50%;
+    width: 30%;
+}
+body{
+    
+}
